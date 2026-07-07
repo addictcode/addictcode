@@ -1,39 +1,39 @@
 <div align="center">
 
-# Привет, я Dmitry 👋
+# Hi, I'm Dmitry 👋
 
-**Java backend developer**, который в свободное время строит крипто-инструменты и AI-агентов
+**Java backend developer** building crypto tools and AI agents on the side
 
 </div>
 
 <br>
 
-## 🚀 Проекты
+## 🚀 Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔥 [Pulse — скринер крипто-фьючерсов](https://github.com/sdima6014-crypto/pulse-crypto-screener)
+### 🔥 [Pulse — crypto futures screener](https://github.com/sdima6014-crypto/pulse-crypto-screener)
 
-Реалтайм-скринер USDT-перпетуалов: Binance + Bybit без бэкенда. Живая таблица
-с фандингом и открытым интересом, карта плотностей стаканов, полноэкранный
-график с индикаторами уровня Smart Money Concepts и две торговые стратегии
-со встроенным живым бектестом.
+Real-time screener for USDT perpetuals: Binance + Bybit, no backend. Live
+table with funding rate and open interest, order-book density map,
+a full-screen chart with Smart Money Concepts-level indicators, and two
+trading strategies with a built-in live backtest.
 
 `JavaScript` `Lightweight Charts` `WebSocket`
 
-**[→ Открыть демо](https://sdima6014-crypto.github.io/pulse-crypto-screener/)**
+**[→ Live demo](https://sdima6014-crypto.github.io/pulse-crypto-screener/)**
 
 </td>
 <td width="50%" valign="top">
 
 ### 🤖 [machinarium-agents](https://github.com/sdima6014-crypto/machinarium-agents)
 
-Команда AI-агентов в 3D-котельной в стиле Machinarium: задача из Telegram
-или встроенного чата → 4 агента (Manager → Analyst → Developer → Reviewer)
-через OpenRouter создают реальные файлы, а в браузере — живая 3D-IDE
-с роботами.
+A team of AI agents in a Machinarium-style 3D boiler room: a task from
+Telegram or the built-in chat → 4 agents (Manager → Analyst → Developer →
+Reviewer) via OpenRouter write real files, while the browser shows a
+live 3D IDE with robots.
 
 `FastAPI` `Redis Streams` `Three.js` `Docker`
 
@@ -44,9 +44,9 @@
 
 ### 📉 [skviz](https://github.com/sdima6014-crypto/skviz)
 
-Telegram-бот: сканер сквизов на Binance Futures — сочетает фандинг,
-открытый интерес и признаки смарт-мани, чтобы ловить сжатия волатильности
-до пробоя.
+Telegram bot: a squeeze scanner for Binance Futures — combines funding
+rate, open interest, and smart-money signals to catch volatility
+compression before it breaks out.
 
 `Python` `Telegram Bot API` `Binance Futures API`
 
@@ -55,9 +55,8 @@ Telegram-бот: сканер сквизов на Binance Futures — сочет
 
 ### 👕 [vinted-telegram-bot](https://github.com/sdima6014-crypto/vinted-telegram-bot)
 
-Telegram-бот, отслеживающий поисковые запросы на Vinted в режиме,
-близком к реальному времени, и парсящий новые объявления — с поддержкой
-групп и тем форума.
+Telegram bot that watches Vinted searches in near-real-time and parses
+new listings — with group and forum-topic support.
 
 `Java` `Spring Boot`
 
@@ -67,7 +66,7 @@ Telegram-бот, отслеживающий поисковые запросы н
 
 <br>
 
-## 🛠 Стек
+## 🛠 Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
