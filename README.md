@@ -76,14 +76,3 @@ Telegram-бот, отслеживающий поисковые запросы н
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-<br>
-
-## 📊 GitHub статистика
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sdima6014-crypto&show_icons=true&hide_title=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdima6014-crypto&layout=compact&hide_title=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
-</div>
