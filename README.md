@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Dmitry 👋
+# Hi, I'm Dmitry 
 
 **Java / Spring Boot backend developer** · Minsk
 
